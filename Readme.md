@@ -6,7 +6,7 @@ This project is a simple, responsive landing page designed for a web hosting com
 
 The landing page aims to provide an engaging overview of the hosting company's services, encouraging visitors to learn more or sign up. It features several key sections to showcase features, pricing plans, and customer testimonials, mimicking a provided design template.
 
-### [Live Demo](https://leenoyoon.github.io/IXCoders-intern-seconds/)
+### [Live Demo](https://leenoyoon.github.io/IXCoders-intern-second/)
 
 
 ## Screenshot
