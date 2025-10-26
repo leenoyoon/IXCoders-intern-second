@@ -27,7 +27,6 @@ body {
   font-weight: bold;
 }
 
-
 @media (min-width: 992px) {
   .nav-gap-sm {
     margin-right: 1rem;
@@ -48,7 +47,7 @@ body {
   }
 }
 
-.navbar{
+.navbar {
   background-color: #ffffff;
 }
 
@@ -294,7 +293,7 @@ body {
 }
 
 .testimonials-section {
-  margin-left: 6rem;
+  margin-inline-start: 6rem;
 }
 
 .testimonials-section h2 {
@@ -315,7 +314,7 @@ body {
 .quote-background {
   position: absolute;
   top: -20px;
-  left: -30px;
+  inset-inline-start: -30px;
   z-index: -1;
   width: 100px;
 }
@@ -327,7 +326,7 @@ body {
   padding: 2rem;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
   margin-bottom: 2rem;
-  text-align: left;
+  text-align: start;
   max-width: 300px;
   margin-left: auto;
   margin-right: auto;
