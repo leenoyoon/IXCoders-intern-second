@@ -18,7 +18,7 @@ body {
 }
 
 .navbar-list .nav-link.active {
-  border-bottom: 3px solid #b00000;
+  border-bottom: solid #b00000;
   padding-bottom: 5px;
 }
 
@@ -48,8 +48,12 @@ body {
   }
 }
 
+.navbar{
+  background-color: #ffffff;
+}
+
 .hero-section {
-  margin-top: 5rem;
+  margin-top: 12rem;
 }
 
 .img-fluid {
@@ -197,6 +201,8 @@ body {
 .form-check-input:focus {
   box-shadow: none;
   border-color: #ced4da;
+  background-color: #b00000;
+  border-color: #b00000;
 }
 
 .discount-badge {
