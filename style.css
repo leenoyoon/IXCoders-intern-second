@@ -22,6 +22,12 @@ body {
   padding-bottom: 5px;
 }
 
+.nav-pipe {
+  color: #dad8d8;
+  font-weight: bold;
+}
+
+
 @media (min-width: 992px) {
   .nav-gap-sm {
     margin-right: 1rem;
@@ -40,11 +46,6 @@ body {
   .nav-pipe {
     margin-left: 1rem;
   }
-}
-
-.nav-pipe {
-  color: #dad8d8;
-  font-weight: bold;
 }
 
 .hero-section {
